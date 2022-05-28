@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%">
+<!-- <img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%"> -->
 
 - 🔭 I’m currently studying Computer Science at **Virginia Tech**
 
