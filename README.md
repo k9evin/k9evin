@@ -4,11 +4,9 @@
 
 <!-- <img alt="Coding GIF" src="./coding.gif" align="right" height="auto" width="270" style="border-radius:50%"> -->
 
-- 🔭 I’m currently studying Computer Science at **Virginia Tech**
+- 🔭 I’m a graduate Computer Science student at **University of Southern California**
 
-- 🌱 I'm on track for learning more about **Web Development, System Design, Mobile Development**
-
-- ⚡ I am really interested in developing technologies and would like to delve deeper into learning more about them.
+- 🌱 I'm on track for learning more about **Web Development, System Design, Algorithm Design**
 
 - 📄 Feel free to reach out to me and you can learn about my experiences through [**LinkedIn**](https://www.linkedin.com/in/mingkai-pang/)
 
