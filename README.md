@@ -56,10 +56,10 @@ I’m building a React app that hooks into your inbox, automatically pulls out c
 
 <p align="center">
   <a href="https://github.com/k9evin">
-    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api?username=k9evin&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api/?username=k9evin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&hide=stars"/>
   </a>
   <a href="https://github.com/k9evin">
-    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api/top-langs/?username=k9evin&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats-coral-five.vercel.app/api/top-langs/?username=k9evin&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
   </a>
 </p>
 
